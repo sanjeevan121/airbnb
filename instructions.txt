@@ -1,0 +1,42 @@
+  647  cd airbnb_dapp
+  648  npm start
+  649  npx truffle unbox react
+  650  truffle compile
+  651  truffle migrate
+  652  code .
+  653  git clone https://github.com/trufflesuite/ganache-ui.git
+  654  npm install
+  655  npm run dev
+  656  npm start
+  657  history
+  658  npm build
+  659  npm run build
+  660  npm run build-linux
+  661  truffle compile
+  662  truffle version
+  663  truffle compile
+  664  truffle deploy
+  665  truffle version
+  666  truffle test
+  667  cd ..
+  668  cd airbnb2
+  669  npm install
+  670  npm run lint
+  671  npm run dev
+  672  ls
+  673  history
+  674  npm install -g truffle
+  675  npm start
+  676  npm run dev
+  677  truffle compile
+  678  truffle test
+  679  truffle compile
+  680  truffle build
+  681  truffle migrate
+  682  npm start
+  683  npm run dev
+  684  npm start
+  685  npm run serve
+  686  npx vue-cli-service serve
+  687  yarn serve
+  688  npm run serve
